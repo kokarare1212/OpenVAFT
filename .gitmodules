@@ -1,0 +1,9 @@
+[submodule "lib/stb"]
+	path = lib/stb
+	url = git@github.com:nothings/stb
+[submodule "lib/whereami"]
+	path = lib/whereami
+	url = git@github.com:gpakosz/whereami
+[submodule "lib/dlib"]
+	path = lib/dlib
+	url = git@github.com:davisking/dlib
