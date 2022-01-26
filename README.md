@@ -10,7 +10,7 @@ Open Source Virtual Avatar Face Tracking<br><br>
 ## Build Requirements
 * [CMake](https://cmake.org/download/)
 * [Microsoft Visual C++](https://visualstudio.microsoft.com/)
-* [Qt](https://www.qt.io/download-open-source)
+* [Qt6](https://www.qt.io/download-open-source)
 * [Cubism SDK for Native](https://www.live2d.com/download/cubism-sdk/download-native/)
 * [glew](https://github.com/nigels-com/glew/releases/latest/)
 * [OpenCV](https://opencv.org/releases/)
